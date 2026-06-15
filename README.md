@@ -1,13 +1,13 @@
 # Hi 👋, I'm Async25
 
-### A Normal Student :)
+### A Normal And Unlucky Student :)
 
-- 🔭 I'm currently working on **Embedded Development**
+- 🔭 Working on **Embedded Development**
 
-- 📫 How to reach me **Gusaa187@gmail.com**
+- 📫 Reach me **Gusaa187@gmail.com**
 
-- ⚡ Fun fact **C Python C++ Fine Fine So Easy
-Gemini GPT Deeepseek Help Help Me Please**
+- **C Python C++ Fine Fine So Easy
+- Gemini GPT Deeepseek Help Help Me Please**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
