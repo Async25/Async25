@@ -5,9 +5,10 @@
 - 🔭 Working on **Embedded Development**
 
 - 📫 Reach me **Gusaa187@gmail.com**
+- 
 
-- **C Python C++ Fine Fine So Easy
-- Gemini GPT Deeepseek Help Help Me Please**
+- C  Python  C++  Fine  Fine  So  Easy ,
+- Gemini GPT Deeepseek Help Help Me Please
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
