@@ -1,6 +1,6 @@
 # Hi 👋, I'm Async25
 
-### A Normal And Unlucky Student :)
+### A Normal Student :)
 
 - 🔭 Working on **Embedded Development**
 
