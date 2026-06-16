@@ -6,7 +6,7 @@
 
 - 📫 Reach me **Gusaa187@gmail.com**
 
-- Gemini GPT Deeepseek Help Help Me Please
+- Realx , nothing is contralable
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
