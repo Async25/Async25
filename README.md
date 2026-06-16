@@ -6,7 +6,7 @@
 
 - 📫 Reach me **Gusaa187@gmail.com**
 
-- Realx , nothing is contralable
+- Realx , Nothing Is Contralable
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
