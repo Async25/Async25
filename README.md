@@ -4,7 +4,7 @@
 
 - 🔭 Working on **Embedded Development**
 
-- 📫 Reach me **Gusaa187@gmail.com**
+- 📫 Reach me **grcdync@proton.me**
 
 - Realx , Nothing Is Contralable
 
