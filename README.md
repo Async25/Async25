@@ -8,8 +8,8 @@
 
 - Realx , Nothing Is Contralable
 
-##website is under maintenance now##
-my blog -> Async25.github.io
+##website is under maintenance now##</a>
+my personal website -> <a href="Async25.github.io" target="_blank" title="Async25.github.io"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
