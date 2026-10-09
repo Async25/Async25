@@ -8,6 +8,9 @@
 
 - Realx , Nothing Is Contralable
 
+##website is under maintenance now##
+my blog -> Async25.github.io
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Async25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Async25" height="30" width="40" /></a>
