@@ -6,7 +6,7 @@
 
 - 📫 Reach me **grcdync@proton.me** or **gusaa187@gmail.me**
 
-- Realx , Nothing Is Controllable
+- Acheron Lover
 
 my personal website -> <a href="https://async25.github.io/" target="_blank" title="website">Click Here</a>
 
